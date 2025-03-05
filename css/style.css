@@ -3559,7 +3559,7 @@ html {
   
   .work-item {
     z-index: auto;
-    cursor: none;
+    cursor: pointer;
     background-color: #f0ebe800;
     flex-direction: column;
     justify-content: center;
